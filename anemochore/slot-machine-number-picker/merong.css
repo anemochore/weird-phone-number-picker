@@ -39,12 +39,6 @@
           backface-visibility: hidden;
 }
 
-.backface-on {
-  -webkit-backface-visibility: visible;
-     -moz-backface-visibility: visible;
-          backface-visibility: visible;
-}
-
 .slot p {
   font-size: 2em;
   font-weight: bold;
