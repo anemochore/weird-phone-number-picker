@@ -71,7 +71,6 @@
   }
 
   function spin(timer) {
-    let result = '';
     for(var i = 0; i < RING_NUMBER; i ++) {
       let oldSeed = -1;
       /*
